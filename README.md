@@ -15,9 +15,7 @@ python list_senders.py [-h] [--threshold THRESHOLD] [--group-by-email]
 
 for example :
 
-```
-python3 list_senders.py --group-by-email --threshold 30 ~/Downloads/mbone.mbox
-```
+![usage example](https://i.imgur.com/isCPq3N.png)
 
 ## Getting your mbox file from GMail
 
